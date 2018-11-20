@@ -31,3 +31,20 @@
     #+END_SRC
 
 * Build Instructions
+
+** Software Setup
+
+   #+BEGIN_SRC sh
+     apt-get install python3-venv
+     virtualenv -p python3 ~/venvs/hplc
+     echo "source ~/venvs/hplc/bin/activate" >> ~/.bashrc
+     source ~/.bashrc
+     pip install pip --upgrade
+     pip install ipython
+     sudo apt-get install git
+     mkdir ~/git
+     cd ~/git
+     git clone https://github.com/janelia-pypi/hplc_interface_python
+     cd hplc_interface_python
+     python3 setup.py install
+   #+END_SRC
