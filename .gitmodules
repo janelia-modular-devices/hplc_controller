@@ -16,3 +16,6 @@
 [submodule "hardware/rs232_interface_3x2"]
 	path = hardware/rs232_interface_3x2
 	url = https://github.com/janelia-kicad/rs232_interface_3x2.git
+[submodule "software/hplc_interface_python"]
+	path = software/hplc_interface_python
+	url = https://github.com/janelia-pypi/hplc_interface_python.git
