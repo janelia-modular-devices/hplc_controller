@@ -1,0 +1,18 @@
+[submodule "generate_modular_device_documentation"]
+	path = generate_modular_device_documentation
+	url = https://github.com/janelia-modular-devices/generate_modular_device_documentation.git
+[submodule "firmware/HplcController"]
+	path = firmware/HplcController
+	url = https://github.com/janelia-arduino/HplcController.git
+[submodule "firmware/GradientController"]
+	path = firmware/GradientController
+	url = https://github.com/janelia-arduino/GradientController.git
+[submodule "firmware/UltravioletDetectorInterface"]
+	path = firmware/UltravioletDetectorInterface
+	url = https://github.com/janelia-arduino/UltravioletDetectorInterface.git
+[submodule "hardware/power_switch_controller_3x2"]
+	path = hardware/power_switch_controller_3x2
+	url = https://github.com/janelia-kicad/power_switch_controller_3x2.git
+[submodule "hardware/rs232_interface_3x2"]
+	path = hardware/rs232_interface_3x2
+	url = https://github.com/janelia-kicad/rs232_interface_3x2.git
