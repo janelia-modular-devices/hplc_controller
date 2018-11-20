@@ -1,0 +1,33 @@
+* Header                                                           :noexport:
+
+  #+MACRO: name hplc_controller
+  #+MACRO: version 1.0
+  #+MACRO: license BSD, Open-Source Hardware
+  #+MACRO: url https://github.com/janelia-modular-devices/hplc_controller
+  #+AUTHOR: Peter Polidoro
+  #+EMAIL: peterpolidoro@gmail.com
+
+* Description
+
+  This device controls the Janelia HPLC.
+
+* Usage Instructions
+
+** Example Code
+
+*** Arduino Serial Monitor
+
+    #+BEGIN_SRC sh
+    #+END_SRC
+
+*** Python
+
+    #+BEGIN_SRC python
+    #+END_SRC
+
+*** Matlab
+
+    #+BEGIN_SRC matlab
+    #+END_SRC
+
+* Build Instructions
