@@ -46,5 +46,6 @@
      cd ~/git
      git clone https://github.com/janelia-pypi/hplc_interface_python
      cd hplc_interface_python
-     python3 setup.py install
+     cp example_config.yaml ~/Desktop/config.yaml
+     python setup.py install
    #+END_SRC
