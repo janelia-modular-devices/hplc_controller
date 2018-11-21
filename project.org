@@ -13,22 +13,13 @@
 
 * Usage Instructions
 
-** Example Code
-
-*** Arduino Serial Monitor
-
-    #+BEGIN_SRC sh
-    #+END_SRC
-
-*** Python
-
-    #+BEGIN_SRC python
-    #+END_SRC
-
-*** Matlab
-
-    #+BEGIN_SRC matlab
-    #+END_SRC
+  1. Modify ~/Desktop/config.yaml to set desired parameters.
+  2. Open a terminal by pressing Ctrl-Alt-t
+  3. In the terminal type the following and press Enter:
+     #+BEGIN_SRC sh
+       hplc
+     #+END_SRC
+  4. Wait for detector, then inject chemical.
 
 * Build Instructions
 
